@@ -1,0 +1,1 @@
+This contains a simulation of a simple causal environment, automated derivation of the transport function through two methods, and a simulation of applying that function. The code contains thorough, colloquial comments and should be legible with or without running.
